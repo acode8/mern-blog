@@ -1,3 +1,7 @@
+# My MERN Blog
+
+You can view the deployed app here: [MERN Frontend](https://mern-frontend-vac8.vercel.app/register)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
